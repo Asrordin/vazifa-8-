@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Fraunces';
-    src: url('./fonts/Fraunces-Bold.woff2') format('woff2'),
-        url('./fonts/Fraunces-Bold.woff') format('woff');
+    src: url('../fonts/Fraunces-Bold.woff2') format('woff2'),
+        url('../fonts/Fraunces-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -9,10 +9,10 @@
 
 @font-face {
     font-family: 'Barlow';
-    src: url('./fonts/Barlow-Regular.woff2') format('woff2'),
-        url('./fonts/Barlow-Regular.woff') format('woff');
+    src: url('../fonts/Barlow-Regular.woff2') format('woff2'),
+        url('../fonts/Barlow-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
-
+    
