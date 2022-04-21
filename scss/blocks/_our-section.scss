@@ -1,0 +1,31 @@
+.our-section__wrapper{
+    
+    display: flex;
+    align-items: center;
+    margin: 0;
+    margin-bottom: 244px;
+    padding: 0;
+    padding-left: 85px;
+}
+.our-section__content{
+    width: 540px;
+}
+.our-section__img{
+    margin-right: 125px;
+    border-radius: 10px;
+}
+.our-section__content-heading{    
+    margin: 0;
+    margin-bottom: 32px;
+    font-family: 'Fraunces';
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+}
+@media only screen and (max-width: 786px) {
+    .our-section__img{
+        width: 281px;
+        margin-right: 69px;
+    }
+    
+}
